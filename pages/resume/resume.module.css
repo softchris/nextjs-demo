@@ -1,0 +1,11 @@
+.experiences,
+.skills,
+.educations {
+  box-shadow: 0 0 10px lightgrey;
+  padding: 10px;
+  margin: 5px 0px;
+}
+
+.title {
+  text-align: center;
+}

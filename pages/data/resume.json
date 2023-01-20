@@ -1,0 +1,33 @@
+{
+  "name": "chris",
+  "experiences": [
+    {
+      "name": "Microsoft",
+      "description": "software developer" 
+    }
+  ],
+  "educations": [
+    {
+      "name": "Some Uni",
+      "description": "MSC Software Engineering" 
+    }
+  ],
+  "skills": [
+    {
+      "name": "Next.js",
+      "description": "Static site generation framework" 
+    },
+    {
+      "name": "JavaScript",
+      "description": "Skilled in JavaScript" 
+    },
+    {
+      "name": "CSS",
+      "description": "Proficient in CSS" 
+    },
+    {
+      "name": "HTML",
+      "description": "Proficient in HTML" 
+    }
+  ]
+}
